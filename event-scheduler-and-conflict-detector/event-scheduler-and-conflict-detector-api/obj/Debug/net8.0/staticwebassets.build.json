@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b0ijRG/QMZyptunaAR1qmY5PIgXxRbJnQb2RCd1sHeE=",
+  "Source": "event-scheduler-and-conflict-detector-api",
+  "BasePath": "_content/event-scheduler-and-conflict-detector-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

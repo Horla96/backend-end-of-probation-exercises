@@ -1,9 +1,0 @@
-C:\Users\HP\Desktop\Datalinks Internship Program\End Of Probation Exercises\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.csproj.AssemblyReference.cache
-C:\Users\HP\Desktop\Datalinks Internship Program\End Of Probation Exercises\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.csproj.AssemblyReference.cache
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.AssemblyInfoInputs.cache
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.AssemblyInfo.cs
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.csproj.CoreCompileInputs.cache
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\HP\Documents\backend-end-of-probation-exercises\basic-inventory-management-api\basic-inventory-management-api\obj\Debug\net8.0\basic-inventory-management-api.MvcApplicationPartsAssemblyInfo.cache

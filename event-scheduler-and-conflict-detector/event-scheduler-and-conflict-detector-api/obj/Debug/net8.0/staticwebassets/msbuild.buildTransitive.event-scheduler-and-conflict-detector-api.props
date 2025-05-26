@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\event-scheduler-and-conflict-detector-api.props" />
+</Project>

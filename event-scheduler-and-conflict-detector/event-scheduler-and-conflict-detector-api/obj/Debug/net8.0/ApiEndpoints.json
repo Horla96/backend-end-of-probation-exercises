@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.EventsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[event_scheduler_and_conflict_detector_api.Models.Event, event-scheduler-and-conflict-detector-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.EventsController",
+    "Method": "GetEventByDateTime",
+    "RelativePath": "api/Events",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "event_scheduler_and_conflict_detector_api.Models.Event",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.EventsController",
+    "Method": "AddEvent",
+    "RelativePath": "api/Events",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "events",
+        "Type": "event_scheduler_and_conflict_detector_api.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.EventsController",
+    "Method": "UpdateEvent",
+    "RelativePath": "api/Events",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "events",
+        "Type": "event_scheduler_and_conflict_detector_api.Models.Event",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.EventsController",
+    "Method": "DeleteEvent",
+    "RelativePath": "api/Events/Id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "event_scheduler_and_conflict_detector_api.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[event_scheduler_and_conflict_detector_api.WeatherForecast, event-scheduler-and-conflict-detector-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
