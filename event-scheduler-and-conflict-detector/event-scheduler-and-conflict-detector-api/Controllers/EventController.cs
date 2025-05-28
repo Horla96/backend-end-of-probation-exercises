@@ -22,7 +22,7 @@ namespace event_scheduler_and_conflict_detector_api.Controllers
             return Ok(events);
         }
 
-        [HttpGet]
+        [HttpGet("{DateTime}")]
         public ActionResult<Event> GetEventByDateTime(DateTime date)
         {
             var events = _eventService.GetEventByDateTime(date);
@@ -38,7 +38,7 @@ namespace event_scheduler_and_conflict_detector_api.Controllers
 
         }
 
-        [HttpPut]
+        [HttpPut("Id")]
         public ActionResult UpdateEvent(Event events)
         {
             _eventService.UpdateEvent(events);
